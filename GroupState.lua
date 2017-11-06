@@ -1,4 +1,4 @@
-function libs.GroupState(sArray)
+function GroupState(sArray)
         -- v1.0. 2016-01-18
         -- Checks the state of a group of swithces.
         -- USAGE   : GroupState({'Switch1','Switch2','Switch3','Switch4','Switch5',more switches})
