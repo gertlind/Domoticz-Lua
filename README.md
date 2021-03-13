@@ -8,4 +8,5 @@ Domoticz on www http://domoticz.com/.
 
 Function
 ==================================
-GroupState    v1.0      2016-01-18
+GroupState          v1.0    2016-01-18
+electrical_counter  v1.0    2021-03-13
